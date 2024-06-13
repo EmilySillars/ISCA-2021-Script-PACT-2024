@@ -59,7 +59,8 @@ When you are done working, exit environment with ```conda deactivate      ```
    ID,Title,Authors,"# Reviews",Status,OveMer,Tags
    ```
 
-5. The CSV file that contains the list papers alongside with its PC conflict. ***(used by both Paper Discussion and Zoom Meeting Config)***
+5. COMMENT: WE ALREADY HAVE THIS SPREADSHEET.
+   The CSV file that contains the list papers alongside with its PC conflict. ***(used by both Paper Discussion and Zoom Meeting Config)***
 
    This file is obtained from HotCRP by clicking `Search` on the Search Field `All` in `Submitted`. Then, move to the bottom of the page, click `select all xxx` and click `Download`. Select `PC Conflict` on `Paper Information` submenu, then click `Go`.
 
